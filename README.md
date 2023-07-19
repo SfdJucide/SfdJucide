@@ -1,5 +1,10 @@
-# 👋 Hola! 
-## I'm a beginer ML Engeneer, currently studing in Programming School 👾"School 21"👾
+# 👋 Hola!
+
+### BIO:
+My name is Danil and I'm a beginer Data Scientist from Moscow. I'm studying at 👾"School 21"👾 and at the same time I'm engaged in self-education in the scope of data science.
+Love working with data 🖤.
+
+- My socials [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sfd_jucide/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=black)](kater167761@gmail.com)
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python)
